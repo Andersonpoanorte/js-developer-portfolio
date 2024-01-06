@@ -40,15 +40,22 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Curso criação landingpage HBOmax",
+      "url": "https://github.com/Andersonpoanorte/HBOMax",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Curso criação de uma página de portfolio",
+      "url": "https://github.com/Andersonpoanorte/js-developer-portfolio",
+      "github": true
+    },
+
+    {
+      "name": "Curso criação de uma página de CoffeShop",
+      "url": "https://github.com/Andersonpoanorte/coffe_shop",
       "github": true
     }
+
   ],
   "professionalExperience": [
     {
