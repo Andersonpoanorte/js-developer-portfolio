@@ -42,18 +42,17 @@
     {
       "name": "Curso criação landingpage HBOmax",
       "url": "https://github.com/Andersonpoanorte/HBOMax",
-      "github": true
+      "git": true
     },
     {
       "name": "Curso criação de uma página de portfolio",
       "url": "https://github.com/Andersonpoanorte/js-developer-portfolio",
-      "github": true
+      "git": true
     },
-
     {
       "name": "Curso criação de uma página de CoffeShop",
       "url": "https://github.com/Andersonpoanorte/coffe_shop",
-      "github": true
+      "git": true
     }
   ],
   "professionalExperience": [
